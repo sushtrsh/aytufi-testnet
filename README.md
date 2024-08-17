@@ -7,13 +7,13 @@
 ## installation
 - git clone https://github.com/sushtrsh/aytufi-testnet.git
 - cd aytufi-testnet
-- arn & yarn instal
+- yarn & yarn install
 
 ##usage
 
 - cp account_tmp.js account.js
 - nano account.js
-- fill nano account.js with your account Seed Phrase
+- fill account.js with your Seed Phrase
 - yarn start
 ### optional 
 - pm2 to run in the background 
@@ -22,4 +22,4 @@
 #### Using Npm
 - full tutorial, tips, and more
 [Check it out](https://github.com/Widiskel/aytu-fi-testnet-bot/blob/master/README.md)
-* thanks to @Widiskel
+- thanks to [@Widiskel](https://github.com/Widiskel)
