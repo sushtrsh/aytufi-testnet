@@ -5,11 +5,9 @@
 - Multi Account Support
 
 ## installation
-- (git clone)[https://github.com/sushtrsh/aytufi-testnet.git]
+- git clone https://github.com/sushtrsh/aytufi-testnet.git
 - cd aytufi-testnet
-- yarn & yarn instal
-yarn install
-'''
+- arn & yarn instal
 
 ##usage
 
@@ -20,10 +18,8 @@ yarn install
 ### optional 
 - pm2 to run in the background 
 - pm2 start index.js --name "name session"
-* Full Doc https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/
-
+- [Full Doc pm2](https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page)
 #### Using Npm
 - full tutorial, tips, and more
-Check it out ;
-https://github.com/Widiskel/aytu-fi-testnet-bot/blob/master/README.md
+[Check it out](https://github.com/Widiskel/aytu-fi-testnet-bot/blob/master/README.md)
 * thanks to @Widiskel
